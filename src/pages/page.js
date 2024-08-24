@@ -1,0 +1,7 @@
+export {default as Home} from './home/Home'
+export {default as Home2} from './home/Home2'
+export {default as About} from './about/About'
+export {default as ToolStack} from './about/ToolStack'
+export {default as TechStack} from './about/TechStack'
+export {default as Project} from './project/Project'
+export {default as ProjectCard} from './project/ProjectCard'
